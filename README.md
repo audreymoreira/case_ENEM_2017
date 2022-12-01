@@ -2,7 +2,8 @@ Análise dos dados do MICRODADOS_ENEM_2017
 Audrey Moreira – novembro de 2022
 TRABALHO EM PROGRESSO
 
-       1. Descrição da análise
+1. Descrição da análise
+
 O ENEM (Exame Nacional do Ensino Médio ou gratuitamente, Exame Nacional do Ensino Médio) foi criado em 1998, com o objetivo de avaliar o desempenho dos alunos que concluem o ensino médio. A partir de 2004, a prova passou a ser utilizada como instrumento de ingresso em instituições de ensino superior e, em 2010, com sua inclusão no Sistema de Seleção Unificada (Sisu), foi reconhecida como o maior e mais completo exame educacional do Brasil.
 Neste projeto, os resultados deste exame foram examinados. Mais de 6 milhões de alunos foram inscritos para o exame em 2017.
 Os microdados do ENEM são o nível mais baixo de desagregação dos dados coletados por meio do exame. Eles atendem à demanda de informações específicas por meio da disponibilização das provas, dos gabaritos, das informações sobre os itens, das notas e do questionário respondido pelos inscritos no Enem.
@@ -12,10 +13,12 @@ Neste link está o arquivo de microdados do ENEM 2017, objeto deste case técnic
 https://download.inep.gov.br/microdados/microdados_enem_2017.zip
 
 2. Objetivo deste projeto
+
 O objetivo principal é obter insights sobre este processo tão importante de medição de desempenho educacional que, em última análise, é o ENEM, este grande exame nacional de estudantes no Brasil.
 
 3. Status do Projeto
-Este é um trabalho em andamento, que será refinado e ampliado adicionando evolução no tempo, por exemplo.
+
+Este é um trabalho em andamento, que será refinado e ampliado adicionando evolução no tempo, com datasets de outros anos, por exemplo.
 
 4. Sequência de trabalho
 
