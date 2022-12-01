@@ -7,8 +7,10 @@ TRABALHO EM PROGRESSO
 O ENEM (Exame Nacional do Ensino Médio ou gratuitamente, Exame Nacional do Ensino Médio) foi criado em 1998, com o objetivo de avaliar o desempenho dos alunos que concluem o ensino médio. A partir de 2004, a prova passou a ser utilizada como instrumento de ingresso em instituições de ensino superior e, em 2010, com sua inclusão no Sistema de Seleção Unificada (Sisu), foi reconhecida como o maior e mais completo exame educacional do Brasil.
 Neste projeto, os resultados deste exame foram examinados. Mais de 6 milhões de alunos foram inscritos para o exame em 2017.
 Os microdados do ENEM são o nível mais baixo de desagregação dos dados coletados por meio do exame. Eles atendem à demanda de informações específicas por meio da disponibilização das provas, dos gabaritos, das informações sobre os itens, das notas e do questionário respondido pelos inscritos no Enem.
+
 Fontes:
 https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
+
 Neste link está o arquivo de microdados do ENEM 2017, objeto deste case técnico:
 https://download.inep.gov.br/microdados/microdados_enem_2017.zip
 
@@ -23,7 +25,8 @@ Este é um trabalho em andamento, que será refinado e ampliado adicionando evol
 4. Sequência de trabalho
 
     • O tamanho do arquivo
-O primeiro problema que enfrentei foi como abrir/visualizar o arquivo MICRODADOS_ENEM_2017.csv, devido ao seu “tamanho grande”, quase 3GB. Nunca tratei um arquivo desse tamanho, então foi um aprendizado, aprender fazendo.
+    O primeiro problema que enfrentei foi como abrir/visualizar o arquivo MICRODADOS_ENEM_2017.csv, devido ao seu “tamanho grande”, quase 3GB. Nunca            tratei um arquivo desse tamanho, então foi um aprendizado, aprender fazendo.
+
     • Colunas escolhidas
       Optei por reduzir a carga de memória e o tempo de processamento, definindo colunas (recursos) para carregar e analisar.
 
