@@ -45,22 +45,39 @@ O primeiro problema que enfrentei foi como abrir/visualizar o arquivo MICRODADOS
     16. 'Q025'	Na sua residência tem acesso à Internet?
 
       • A nota final do aluno (‘NOTA_FINAL’) neste exame é obtida através do cálculo da média aritmética das suas cinco notas: ‘NU_NOTA_CH’, ‘NU_NOTA_CN’, ‘NU_NOTA_LC’, ‘NU_NOTA_MT’ e ‘NU_NOTA_REDACAO’.
+      
     • Análises Efetuadas:
+    
     a) Distribuição total de notas com todo o dataframe enem_2017, desconsiderando os alunos ausentes.
+    
     b) Madiana da Nota Final
+    
     c) Alunos ausentes: número em relação ao total
+    
     d) Maior nota final, quanto e de onde
+    
     e) Análise por tipo de Escola
+    
     f) Distribuição de Estudantes por Faixa de Renda
+    
     g) Relação entre Renda Familiar e Nota Final
+    
     h) Nota Final por Estados e Regiões
+    
     i) O Estado com a maior nota, menor nota (Nota Final e de Redação)
+    
     j) Aquisição de arquivo externo com IDHM e IDHM Renda por Estado e por Região
+    
     k) Correlação entre os Índices e a Nota Final
+    
     l) Desempenho por Reistribuição de notas por Cidades
+    
     m) Influência do grau de instrução de Pais e Mães
+    
     n) Ter Internet em casa e a influência nas notas
+    
     o) Heatmap para correlação entre a população das cidades e as notas.
+    
 
 Este é um trabalho em andamento.
 Mais desenvolvimentos envolvem, por exemplo, a evolução histórica das análises executadas aqui.
