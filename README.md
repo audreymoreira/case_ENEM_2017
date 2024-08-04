@@ -84,6 +84,6 @@ Este é um trabalho em andamento, que será refinado e ampliado adicionando evol
 
 Este é um trabalho em andamento.
 Mais desenvolvimentos envolvem, por exemplo, a evolução histórica das análises executadas aqui.
-Caso você queira enviar sugestões, elas serão muito apreciadas! Obrigada!
+Caso você queira enviar sugestões, elas serão muito apreciadas!
 Audrey Moreira
 
